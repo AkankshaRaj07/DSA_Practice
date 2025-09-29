@@ -19,7 +19,7 @@ class Solution {
         trav(root, list);
         return list;
     }
-    public void trav(TreeNode root, LinkedList <Integer> list){
+    private void trav(TreeNode root, LinkedList <Integer> list){
         if( root == null) return;
         trav(root.left, list);
         list.add(root.val);
