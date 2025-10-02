@@ -10,8 +10,6 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        if(head.next == null) return head;
-        if(head.next.next == null) return head.next;
         ListNode tort= head;
         ListNode hare= head;
         while(hare != null && hare.next != null ){
