@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0063-unique-paths-ii) |
