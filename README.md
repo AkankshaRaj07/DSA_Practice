@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0572-subtree-of-another-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1078-remove-outermost-parentheses) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0735-asteroid-collision) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 ## Simulation
