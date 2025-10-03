@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0338-counting-bits) |
 ## Combinatorics
 |  |
@@ -150,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
