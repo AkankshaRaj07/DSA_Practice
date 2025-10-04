@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1917-maximum-average-pass-ratio) |
 ## Greedy
 |  |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0063-unique-paths-ii) |
+| [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
