@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0055-jump-game) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0205-isomorphic-strings) |
