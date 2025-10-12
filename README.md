@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0213-house-robber-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Union Find
@@ -228,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
