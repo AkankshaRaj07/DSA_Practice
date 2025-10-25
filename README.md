@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0063-unique-paths-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
