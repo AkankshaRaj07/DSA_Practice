@@ -6,7 +6,7 @@ class Solution {
             int val=1; 
             for (int j = 0; j <= i; j++) {
                 row.add(val);
-                // update to next nCr: val = val * (n - r) / (r + 1)
+ //ncr combination wala logic use kr rhe hai pr minimize krte n-r upar niche kaat ke
                 val = val * (i - j) / (j + 1);
                 
             }
