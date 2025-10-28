@@ -3,17 +3,14 @@ class Solution {
         List <List <Integer>> ans = new ArrayList<>();
         for(int i=0; i<numRows; i++){
             List<Integer> row = new ArrayList<>();
+            int val=1; 
             for (int j = 0; j <= i; j++) {
-                if (j == 0 || j == i) {
-                    row.add(1);
-                } else {
-                    int val = ans.get(i - 1).get(j - 1) + ans.get(i - 1).get(j);
-                    row.add(val);
-                }
+                row.add(val);
+                // update to next nCr: val = val * (n - r) / (r + 1)
+                val = val * (i - j) / (j + 1);
+                
             }
             ans.add(row);
-        }
-        return ans;
+        }return ans;
 
-    }
-}
+}}
