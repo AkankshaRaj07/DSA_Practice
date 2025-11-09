@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0200-number-of-islands) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
