@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0572-subtree-of-another-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1078-remove-outermost-parentheses) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1917-maximum-average-pass-ratio) |
 ## Math
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Union Find
@@ -296,4 +300,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
