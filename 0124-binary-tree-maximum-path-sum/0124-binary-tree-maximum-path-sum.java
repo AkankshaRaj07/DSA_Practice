@@ -14,36 +14,27 @@
  * }
  */
 class Solution {
-    int max = Integer.MIN_VALUE;
+    int maxSum = Integer.MIN_VALUE;
 
     public int maxPathSum(TreeNode root) {
-        traverse(root);
-        return max;
+        dfs(root);
+        return maxSum;
     }
 
-    // Visit each node as potential "peak"
-    private void traverse(TreeNode node) {
-        if (node == null) return;
-
-        int left = maxDown(node.left);
-        int right = maxDown(node.right);
-
-        // Path passing through this node
-        int currentPath = node.val + left + right;
-        max = Math.max(max, currentPath);
-
-        traverse(node.left);
-        traverse(node.right);
-    }
-
-    // Maximum downward path starting from this node
-    private int maxDown(TreeNode node) {
+    private int dfs(TreeNode node) {
         if (node == null) return 0;
 
-        int left = maxDown(node.left);
-        int right = maxDown(node.right);
+        // Get max path sum from left and right subtrees
+        int left = Math.max(0, dfs(node.left));
+        int right = Math.max(0, dfs(node.right));
 
-        // We take max child contribution OR stop at node
-        return Math.max(0, node.val + Math.max(left, right));
+        // Path passing through current node
+        int currentPath = node.val + left + right;
+
+        // Update global maximum
+        maxSum = Math.max(maxSum, currentPath);
+
+        // Return max downward path
+        return node.val + Math.max(left, right);
     }
 }
