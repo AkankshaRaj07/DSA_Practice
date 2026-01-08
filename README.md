@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0572-subtree-of-another-tree) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0205-isomorphic-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0572-subtree-of-another-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0572-subtree-of-another-tree) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -375,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
