@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0572-subtree-of-another-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0572-subtree-of-another-tree) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1250-longest-common-subsequence) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0338-counting-bits) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1250-longest-common-subsequence) |
