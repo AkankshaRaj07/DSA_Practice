@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3454-separate-squares-ii) |
 ## Greedy
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Linked List
 |  |
 | ------- |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
