@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1200-minimum-absolute-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1390-four-divisors) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
