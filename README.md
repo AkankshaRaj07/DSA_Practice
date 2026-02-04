@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0735-asteroid-collision) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0662-maximum-width-of-binary-tree) |
