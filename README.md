@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## String Matching
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1200-minimum-absolute-difference) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1895-largest-magic-square) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
@@ -564,4 +568,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
