@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0799-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
