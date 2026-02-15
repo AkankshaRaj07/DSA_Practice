@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0338-counting-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3379-transformed-array) |
