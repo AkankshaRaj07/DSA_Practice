@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Combinatorics
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Monotonic Stack
 |  |
