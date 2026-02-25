@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Bucket Sort
 |  |
