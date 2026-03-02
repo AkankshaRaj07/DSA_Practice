@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1646-kth-missing-positive-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1975-maximum-matrix-sum) |
