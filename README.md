@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1250-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3379-transformed-array) |
