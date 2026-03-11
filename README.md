@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -695,4 +697,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
