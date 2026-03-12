@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0169-majority-element) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1382-balance-a-binary-search-tree) |
