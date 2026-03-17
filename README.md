@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0997-find-the-town-judge](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1004-max-consecutive-ones-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1004-max-consecutive-ones-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1895-largest-magic-square) |
