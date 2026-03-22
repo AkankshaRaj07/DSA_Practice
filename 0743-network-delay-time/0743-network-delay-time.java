@@ -1,31 +1,50 @@
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
-        
-        int INF = (int)1e9;
+        ArrayList<ArrayList<int[]>> graph = new ArrayList<>();
+
+        for (int i = 0; i <= n; i++) {
+            graph.add(new ArrayList<>());
+        }
+
+        for (int[] t : times) {
+            int u = t[0];
+            int v = t[1];
+            int w = t[2];
+            graph.get(u).add(new int[]{v, w});
+        }
+
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[1] - b[1]);
+
         int[] dist = new int[n + 1];
-        Arrays.fill(dist, INF);
-        
+        Arrays.fill(dist, Integer.MAX_VALUE);
+
         dist[k] = 0;
+        pq.offer(new int[]{k, 0});
 
-        // Bellman Ford
-        for(int i = 1; i <= n - 1; i++) {
-            for(int[] e : times) {
-                int u = e[0];
-                int v = e[1];
-                int w = e[2];
+        while (!pq.isEmpty()) {
+            int[] curr = pq.poll();
+            int node = curr[0];
+            int time = curr[1];
 
-                if(dist[u] != INF && dist[u] + w < dist[v]) {
-                    dist[v] = dist[u] + w;
+            if (time > dist[node]) continue;
+
+            for (int[] nei : graph.get(node)) {
+                int next = nei[0];
+                int w = nei[1];
+
+                if (dist[next] > time + w) {
+                    dist[next] = time + w;
+                    pq.offer(new int[]{next, dist[next]});
                 }
             }
         }
 
-        int maxTime = 0;
-        for(int i = 1; i <= n; i++) {
-            if(dist[i] == INF) return -1;
-            maxTime = Math.max(maxTime, dist[i]);
+        int ans = 0;
+        for (int i = 1; i <= n; i++) {
+            if (dist[i] == Integer.MAX_VALUE) return -1;
+            ans = Math.max(ans, dist[i]);
         }
 
-        return maxTime;
+        return ans;
     }
 }
