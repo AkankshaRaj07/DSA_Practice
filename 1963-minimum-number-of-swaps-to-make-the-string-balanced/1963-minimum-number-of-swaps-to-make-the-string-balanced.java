@@ -1,10 +1,13 @@
 class Solution {
     public int minSwaps(String s) {
-        Stack<Character> st = new Stack<>();
+        int open = 0, imbalance = 0;
         for(char c : s.toCharArray()){
-            if(c == ']' && !st.isEmpty() && st.peek()=='[') st.pop();
-            else st.push(c);
+            if(c == '[') open++;
+            else {
+                if(open > 0) open--;
+                else imbalance++;
+            }
         }
-        return ((st.size()/2) + 1) / 2;
+        return (imbalance + 1) / 2;
     }
 }
