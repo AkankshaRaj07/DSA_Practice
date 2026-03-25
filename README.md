@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Minimum Spanning Tree
 |  |
