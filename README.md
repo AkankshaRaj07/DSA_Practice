@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -907,4 +908,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
