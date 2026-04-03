@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0997-find-the-town-judge](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0997-find-the-town-judge) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1041-robot-bounded-in-circle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0761-special-binary-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
