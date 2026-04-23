@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1895-largest-magic-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2615-sum-of-distances](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2906-construct-product-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
