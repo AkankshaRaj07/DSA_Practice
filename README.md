@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Bucket Sort
 |  |
