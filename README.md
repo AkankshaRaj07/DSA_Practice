@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1975-maximum-matrix-sum) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1914-cyclically-rotating-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2075-decode-the-slanted-ciphertext) |
