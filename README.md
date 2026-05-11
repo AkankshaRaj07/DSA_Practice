@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2751-robot-collisions) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3379-transformed-array) |
