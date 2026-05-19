@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2615-sum-of-distances) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1646-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3454-separate-squares-ii) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
