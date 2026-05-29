@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0319-bulb-switcher) |
+| [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -482,12 +484,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
