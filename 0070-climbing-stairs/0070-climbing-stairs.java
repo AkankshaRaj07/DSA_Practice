@@ -3,11 +3,13 @@ class Solution {
         if (n<=2) return n;
         int [] dp = new int [n+1];
         //dp[0]=0;
-        dp[1]= 1;
-        dp[2] = 2;
+        int prev= 1;
+        int next = 2;
         for(int i  = 3; i<=n; i++){
-            dp[i] = dp[i-1]+dp[i-2];
+            int temp = prev+next;
+            prev = next;
+            next = temp;
         }
-        return dp[n];
+        return next;
     }
 }
