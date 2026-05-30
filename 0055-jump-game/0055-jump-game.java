@@ -13,8 +13,8 @@ class Solution {
                 dp[i] = 1;
                 return true;
             }
-            dp[i]=0;
         }
+        dp[i]=0;
         return false;
     }
 }
