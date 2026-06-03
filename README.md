@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Union Find
 |  |
 | ------- |
