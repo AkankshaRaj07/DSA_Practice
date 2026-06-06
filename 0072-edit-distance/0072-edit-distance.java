@@ -13,12 +13,13 @@ class Solution {
         if (s1.charAt(i) == s2.charAt(j)) {
             return dp[i][j] = rec(s1, s2, i - 1, j - 1,dp);
         }
-        int insert = rec(s1, s2, i, j - 1,dp);
-        int delete = rec(s1, s2, i - 1, j,dp);
-        int replace = rec(s1, s2, i - 1, j - 1,dp);
-
-        return dp[i][j] = 1 + Math.min(insert,
-                   Math.min(delete, replace));
+        else {
+            int insert = rec(s1, s2, i, j - 1,dp);
+            int delete = rec(s1, s2, i - 1, j,dp);
+            int replace = rec(s1, s2, i - 1, j - 1,dp);
+        
+            return dp[i][j] = 1 + Math.min(insert, Math.min(delete, replace));
+        }
     }
     
 }
