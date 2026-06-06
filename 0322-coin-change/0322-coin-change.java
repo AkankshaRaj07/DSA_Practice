@@ -1,31 +1,24 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        //int dp[][] = new int[n][amount + 1];
-        int [] prev = new int [amount+1];
-        prev[0]=0;
-        for (int a = 0; a <= amount; a++) {
-                if ((a % coins[0]) == 0) {
-                    prev[a] = a / coins[0];
-                }
-                else prev[a] = (int) 1e9;
-        }
-        for (int i = 1; i < n; i++) {
-            int [] cur= new int [amount+1];
-            cur[0]=0;
-            for (int a = 0; a <= amount; a++) {
-                int pick = (int) (1e9);
-                if (a>= coins[i]) {
-                    pick = 1 + cur[a - coins[i]];
-                }
-                int noPick = prev[a];
-                cur[a] = Math.min(pick, noPick);
+        int [][] dp = new int[n][amount+1];
+        for(int []a: dp) Arrays.fill(a,-1);
+        int ans = rec(coins, amount, n-1, dp);
+        return ans == (int) 1e9 ? -1:ans;
+    }
+    public int rec(int [] coins, int amount, int i, int [][] dp){
+        if(i == 0){
+            if (amount % coins[0] == 0) {
+                return dp[i][amount] = amount / coins[0];
             }
-            prev=cur;
+            return dp[i][amount] = (int) 1e9;
         }
-        if (prev[amount] == (int) (1e9)){
-            prev[amount] = -1;
+        if(dp[i][amount] !=-1) return dp[i][amount] ;
+        int pick = (int) 1e9;
+        if(amount >= coins[i]){
+            pick =1+ rec(coins, amount - coins[i], i,dp);
         }
-        return prev[amount];
+        int noPick = rec(coins, amount, i-1,dp);
+        return dp[i][amount] = Math.min(pick, noPick);
     }
 }
