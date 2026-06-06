@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1895-largest-magic-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2574-left-and-right-sum-differences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2906-construct-product-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
