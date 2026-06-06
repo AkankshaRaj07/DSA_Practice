@@ -1,25 +1,38 @@
 class Solution {
     public int minDistance(String word1, String word2) {
-        int m =word1.length();
+
+        int m = word1.length();
         int n = word2.length();
-        int[][] dp = new int [m][n];
-        for(int[] a : dp) Arrays.fill(a,-1);
-        return rec(word1, word2, m-1, n-1,dp);
-    }
-    public int rec(String s1, String s2, int i , int j, int[][] dp){
-        if (i < 0) return j + 1;
-        if (j < 0) return i + 1;
-        if(dp[i][j] != -1) return dp[i][j] ;
-        if (s1.charAt(i) == s2.charAt(j)) {
-            return dp[i][j] = rec(s1, s2, i - 1, j - 1,dp);
+
+        int[] prev = new int[n + 1];
+
+        for (int j = 0; j <= n; j++) {
+            prev[j] = j;
         }
-        else {
-            int insert = rec(s1, s2, i, j - 1,dp);
-            int delete = rec(s1, s2, i - 1, j,dp);
-            int replace = rec(s1, s2, i - 1, j - 1,dp);
-        
-            return dp[i][j] = 1 + Math.min(insert, Math.min(delete, replace));
+
+        for (int i = 1; i <= m; i++) {
+
+            int[] curr = new int[n + 1];
+            curr[0] = i;
+
+            for (int j = 1; j <= n; j++) {
+
+                if (word1.charAt(i - 1) == word2.charAt(j - 1)) {
+                    curr[j] = prev[j - 1];
+                } else {
+
+                    int insert = curr[j - 1];
+                    int delete = prev[j];
+                    int replace = prev[j - 1];
+
+                    curr[j] = 1 + Math.min(insert,
+                                   Math.min(delete, replace));
+                }
+            }
+
+            prev = curr;
         }
+
+        return prev[n];
     }
-    
 }
