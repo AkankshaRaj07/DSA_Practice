@@ -26,7 +26,7 @@ class Solution {
                     int replace = prev[j - 1];
 
                     curr[j] = 1 + Math.min(insert,
-                                   Math.min(delete, replace));
+                                    Math.min(delete, replace));
                 }
             }
 
