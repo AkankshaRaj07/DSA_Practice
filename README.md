@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0127-word-ladder) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0118-pascals-triangle) |
