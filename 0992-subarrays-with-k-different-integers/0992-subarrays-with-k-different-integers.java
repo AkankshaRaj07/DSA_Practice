@@ -3,21 +3,20 @@ class Solution {
         return atMostK(nums,k)-atMostK(nums,k-1);
     }
     public int atMostK(int [] nums, int k){
-        int left = 0;
-        int count = 0;
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int right = 0; right<nums.length; right++){
-            map.put(nums[right],map.getOrDefault(nums[right],0)+1);
-            while(map.size()>k){
-                int freq = map.get(nums[left]);
-                map.put(nums[left], freq - 1);
-                if(map.get(nums[left]) == 0){
-                    map.remove(nums[left]);
-                }
-                left++;
+        if (k < 1) return 0;
+        int n = nums.length;
+        int res = 0, j = 0, distinct = 0;
+        int[] count = new int[n + 1]; // instead of HashMap
+        for (int i = 0; i < n; i++) {
+            if (count[nums[i]] == 0) distinct++;
+            count[nums[i]]++;
+            while (distinct > k) {
+                count[nums[j]]--;
+                if (count[nums[j]] == 0) distinct--;
+                j++;
             }
-            count += right - left + 1;
+            res += i - j + 1;
         }
-        return count;
+        return res;
     }
 }
