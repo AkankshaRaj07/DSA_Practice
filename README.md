@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
