@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3719-longest-balanced-subarray-i) |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -1175,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1187,4 +1193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
