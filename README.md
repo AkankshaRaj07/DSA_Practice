@@ -1237,4 +1237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
