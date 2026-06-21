@@ -1244,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1075-project-employees-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1174-immediate-food-delivery-ii) |
