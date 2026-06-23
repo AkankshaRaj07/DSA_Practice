@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
