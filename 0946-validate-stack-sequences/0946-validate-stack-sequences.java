@@ -9,6 +9,6 @@ class Solution {
                 j++;
             }
         }
-        return st.isEmpty();
+        return j == popped.length;
     }
 }
