@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1041-robot-bounded-in-circle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
