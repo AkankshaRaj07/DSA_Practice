@@ -1,21 +1,37 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
-        Stack<Integer> st = new Stack<>();
-        HashSet <Integer> toRemove = new HashSet<>();
-        for(int i = 0; i<s.length() ; i++){
-            char c  = s.charAt(i);
-            if(c=='(') st.push(i);
-            else if (c==')'){
-                if(st.isEmpty()) toRemove.add(i);
-                else st.pop();
+        int n = s.length();
+        String res = "";
+        int open = 0; 
+        for(char c: s.toCharArray()){
+            if(c >='a' && c<='z') res+=c;
+            else if (c=='('){
+                open++;
+                res+=c;
+            }
+            else if(open>0){
+                open--;
+                res+=c;
             }
         }
-        while(!st.isEmpty()) toRemove.add(st.pop());
-        String validString ="";
-        for(int i = 0; i<s.length(); i++){
-            if(toRemove.contains(i)) continue;
-            else validString+=s.charAt(i);
-        }
-        return validString;
+        String ans ="";
+        
+            int close = 0;
+            
+            for(int i = res.length()-1; i>=0; i--){
+                char c = res.charAt(i);
+                if(c>='a' && c<='z') ans+=c;
+                else if(c==')'){
+                    close++;
+                    ans+=c;
+                }
+                else if(close>0){
+                    close--;
+                    ans+=c;
+                }
+            }
+        
+        return new StringBuilder(ans).reverse().toString();
+
     }
 }
