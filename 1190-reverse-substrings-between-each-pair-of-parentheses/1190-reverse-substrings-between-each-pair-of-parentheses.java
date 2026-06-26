@@ -1,27 +1,29 @@
 class Solution {
     public String reverseParentheses(String s) {
-        Stack<Character> st = new Stack<>();
-        for(int i = 0; i<s.length() ; i++){
-            char c = s.charAt(i);
-            StringBuilder temp = new StringBuilder();
-            if(c == '(') st.push(c); 
-            else if(Character.isLetter(c)) st.push(c);
-            else if(c==')'){
-                while(!st.isEmpty() && st.peek()!='('){
-                    temp.append(st.pop());
-                }
-                st.pop();
-                for(char a: temp.toString().toCharArray()) st.push(a);
+        int n = s.length();
+        int[] pair = new int[n];
+        Stack<Integer> st = new Stack<>();
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) == '(') {
+                st.push(i);
+            } else if (s.charAt(i) == ')') {
+                int j = st.pop();
+                pair[i] = j;
+                pair[j] = i;
             }
         }
         StringBuilder ans = new StringBuilder();
-        while(!st.isEmpty()) ans.append(st.pop());
-        return ans.reverse().toString();
+        int i = 0, dir = 1;
+        while (i < n) {
+            char c = s.charAt(i);
+            if (c == '(' || c == ')') {
+                i = pair[i];
+                dir = -dir;
+            } else {
+                ans.append(c);
+            }
+            i += dir;
+        }
+        return ans.toString();
     }
-    // public String reverse(String res, int start){
-    //     String first = res.substring(0, start);
-    //     String second = new StringBuilder(res.substring(start)).reverse().  toString();
-    //     return first + second;
-        
-    // }
 }
