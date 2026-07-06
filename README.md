@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0874-walking-robot-simulation) |
+| [0881-boats-to-save-people](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0761-special-binary-string) |
 | [0846-hand-of-straights](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
