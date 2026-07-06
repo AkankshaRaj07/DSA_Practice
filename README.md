@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1292,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Minimum Spanning Tree
 |  |
@@ -1359,4 +1362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1789-primary-department-for-each-employee) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
