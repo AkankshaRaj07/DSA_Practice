@@ -1347,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0550-game-play-analysis-iv) |
