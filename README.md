@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1646-kth-missing-positive-number) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -962,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Simulation
 |  |
 | ------- |
