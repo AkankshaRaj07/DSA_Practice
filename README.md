@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1041-robot-bounded-in-circle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
+| [1260-shift-2d-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
