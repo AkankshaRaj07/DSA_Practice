@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0433-minimum-genetic-mutation) |
+| [0443-string-compression](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0567-permutation-in-string) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
