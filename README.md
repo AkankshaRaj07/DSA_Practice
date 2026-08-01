@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0498-diagonal-traverse) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0319-bulb-switcher) |
+| [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1472,4 +1476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
