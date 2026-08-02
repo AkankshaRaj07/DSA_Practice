@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1041-robot-bounded-in-circle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1250-longest-common-subsequence) |
@@ -1480,4 +1483,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
