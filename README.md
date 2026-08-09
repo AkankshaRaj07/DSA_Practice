@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1260-shift-2d-grid) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1041-robot-bounded-in-circle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
+| [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -1197,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1499,13 +1503,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
