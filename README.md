@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -1315,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3454-separate-squares-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1347,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
