@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0621-task-scheduler) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0433-minimum-genetic-mutation) |
