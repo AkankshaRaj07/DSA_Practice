@@ -7,12 +7,10 @@ class Solution {
     private int solve(List<String> arr, int i , int n, String temp){
         if(i>=n) return temp.length();
         int pick = 0, noPick = 0;
-        if(hasDuplicate(temp, arr.get(i))){
-            noPick = solve(arr,i+1,n,temp);
-        }else{
-            pick = solve(arr,i+1,n,temp+arr.get(i));
-            noPick = solve(arr,i+1,n,temp);
+        if(!hasDuplicate(temp, arr.get(i))){
+             pick = solve(arr,i+1,n,temp+arr.get(i));
         }
+        noPick = solve(arr,i+1,n,temp);
         return Math.max(pick, noPick);
     }
     private boolean hasDuplicate(String s1, String s2){
