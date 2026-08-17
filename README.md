@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1840-maximum-building-height) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1563-stone-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1871-jump-game-vii) |
@@ -1535,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
