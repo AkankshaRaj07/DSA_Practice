@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1927-sum-game) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
@@ -1254,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1895-largest-magic-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1557,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -1564,12 +1569,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
