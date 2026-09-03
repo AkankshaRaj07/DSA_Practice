@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
