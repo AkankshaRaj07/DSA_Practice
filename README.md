@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1197,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
