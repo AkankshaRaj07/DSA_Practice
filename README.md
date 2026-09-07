@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1078-remove-outermost-parentheses) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1143-longest-common-subsequence) |
