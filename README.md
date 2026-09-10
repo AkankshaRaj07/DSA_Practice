@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3310-remove-methods-from-project) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Function
 |  |
 | ------- |
