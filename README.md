@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0874-walking-robot-simulation) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
