@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0319-bulb-switcher) |
@@ -1189,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0735-asteroid-collision) |
@@ -1593,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
