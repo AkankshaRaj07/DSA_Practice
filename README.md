@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0402-remove-k-digits) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0542-01-matrix) |
@@ -1174,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0797-all-paths-from-source-to-target) |
