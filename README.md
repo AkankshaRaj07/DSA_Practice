@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2463-minimum-total-distance-traveled) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2573-find-the-string-with-lcp](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1917-maximum-average-pass-ratio) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1289,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2784-check-if-array-is-good) |
