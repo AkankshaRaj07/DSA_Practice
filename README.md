@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Tree
 |  |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -882,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -1455,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -1533,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1787,6 +1794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
