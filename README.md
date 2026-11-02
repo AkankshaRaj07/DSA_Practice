@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0494-target-sum) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0319-bulb-switcher) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1307,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0721-accounts-merge) |
