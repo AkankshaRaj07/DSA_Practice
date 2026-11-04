@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -1182,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1405,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
