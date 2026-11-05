@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1861-rotating-the-box) |
@@ -1334,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
