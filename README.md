@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3453-separate-squares-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1271,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -1425,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -1560,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3525-find-x-value-of-array-ii) |
@@ -1683,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1764,6 +1770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Game Theory
 |  |
 | ------- |
