@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -1428,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1461,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AkankshaRaj07/DSA_Practice/tree/master/3699-number-of-zigzag-arrays-i) |
